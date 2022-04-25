@@ -1,14 +1,9 @@
 {
   "notes": [
     {
-      "id": 0,
-      "title": "Test Title",
-      "text": "Test text"
-    },
-    {
       "title": "Test 1",
-      "text": "Working text for test 1 description",
-      "id": "4qluw91gl2e5pqdh"
+      "text": "Test 1 notes",
+      "id": "4qluw7scl2e73ntp"
     }
   ]
 }
